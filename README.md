@@ -4,7 +4,13 @@
 
 ### LabVIEW Version ###
 
-LabVIEW 2017
+LabVIEW 2015 SP1
+Note: To build versions for VS 2017 and up, you need to change the Project "Conditional Disable Symbol" "CD_Version" to Default. And for Previous versions, use "2015_2016"
+
+### Dependencies ###
+
+- NI-SLSC Driver 17.0+
+- Inline-Async API from (https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API)
 
 ### Built Availability ###
 
@@ -13,11 +19,6 @@ Builds of this IP are available on the [NI VeriStand Add-ons Community](https://
 ### Quality, Limitations ###
 
 This IP should be considered high quality and mature. The IP has been used worldwide by many customers in deployed applications. 
-
-### Dependencies ###
-
-- NI-SLSC Driver 17.0+
-- Inline-Async API from (https://github.com/NIVeriStandAdd-Ons/VeriStand-Addon-Inline-Async-API)
 
 ### License ###
 
