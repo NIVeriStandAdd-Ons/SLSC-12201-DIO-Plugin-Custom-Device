@@ -1,3 +1,6 @@
+**This code has been archived. For the latest version, please go to:**
+https://github.com/ni/niveristand-slsc-12201-custom-device
+
 ## SLSC-12201 DIO Plugin Custom Device ##
 
 ** SLSC-12201 DIO Plugin Custom Device** integrates the SLSC-12201 33 V Digital I/O Conditioning Module into NI VeriStand.
