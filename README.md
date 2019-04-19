@@ -1,4 +1,4 @@
-**This code has been archived. For the latest version, please go to:**
+**This code has been archived because development has moved to Github/NI. For the latest version, please go to:**
 https://github.com/ni/niveristand-slsc-12201-custom-device
 
 ## SLSC-12201 DIO Plugin Custom Device ##
